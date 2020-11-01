@@ -1,1 +1,2 @@
 # SPSS
+![](Capture.PNG)
